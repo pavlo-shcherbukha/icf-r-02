@@ -1,0 +1,6 @@
+{  
+   "pub_endpoint": "s3.eu-de.cloud-object-storage.appdomain.cloud",
+   "bucket": "cloud-object-storage-bi-cos-static-web-hosting-c2i",
+   "rss_url": "https://censor.net.ua/includes/resonance_en.xml",
+   "rss_name": "censor_net.json"
+}

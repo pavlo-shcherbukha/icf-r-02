@@ -1,0 +1,13 @@
+﻿packages:
+  rss-srvc-demo:
+    version: 1.0
+    license: Apache-2.0
+    actions:
+      COS-BacketList:
+        function: src/RSS-ExtrObject.js
+        runtime: nodejs
+        web-export: false
+      COS-PutObject:
+        function: src/COS-PutObject.js
+        runtime: nodejs
+        web-export: false

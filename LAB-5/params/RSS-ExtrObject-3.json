@@ -1,0 +1,6 @@
+{  
+   "pub_endpoint": "s3.eu-de.cloud-object-storage.appdomain.cloud",
+   "bucket": "cloud-object-storage-bi-cos-static-web-hosting-c2i",
+   "rss_url": "http://feeds.bbci.co.uk/news/rss.xml",
+   "rss_name": "bbc_news.json"
+}
