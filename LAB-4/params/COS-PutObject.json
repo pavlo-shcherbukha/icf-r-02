@@ -1,0 +1,6 @@
+{  
+   "pub_endpoint": "s3.eu-de.cloud-object-storage.appdomain.cloud",
+   "bucket": "cloud-object-storage-bi-cos-static-web-hosting-c2i",
+   "file_name": "test_file3.txt",
+   "file_data": "test data ==== test-data ===="
+}

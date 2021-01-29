@@ -1,0 +1,21 @@
+﻿packages:
+  cos-srvc-demo:
+    version: 1.0
+    license: Apache-2.0
+    actions:
+      COS-BacketList:
+        function: src/COS-BacketList.js
+        runtime: nodejs
+        web-export: false
+      COS-PutObject:
+        function: src/COS-PutObject.js
+        runtime: nodejs
+        web-export: false
+      COS-GetObject:
+        function: src/COS-GetObject.js
+        runtime: nodejs
+        web-export: false
+      COS-ListItems:
+        function: src/COS-ListItems.js
+        runtime: nodejs
+        web-export: false
