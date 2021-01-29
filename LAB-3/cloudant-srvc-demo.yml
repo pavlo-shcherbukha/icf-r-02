@@ -1,0 +1,21 @@
+﻿packages:
+  cloudant-srvc-demo:
+    version: 1.0
+    license: Apache-2.0
+    actions:
+      DBCreate:
+        function: src/DBCreate.js
+        runtime: nodejs
+        web-export: false
+      DBDelete:
+        function: src/DBDelete.js
+        runtime: nodejs
+        web-export: false
+      DocCreate:
+        function: src/DocCreate.js
+        runtime: nodejs
+        web-export: false
+      DocDelete:
+        function: src/DocDelete.js
+        runtime: nodejs
+        web-export: false
